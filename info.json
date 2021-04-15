@@ -1,0 +1,213 @@
+{
+  "about": {
+    "name": "Jorge Alberto Rojas Solórzano",
+    "title": "Web developer",
+    "details": [
+      {
+        "title": "Estado civíl",
+        "value": "Soltero"
+      },
+      {
+        "title": "Nacionalidad",
+        "value": "Guatemalteco"
+      },
+      {
+        "title": "Profesión",
+        "value": "Bachiller en computación con orientación comercial"
+      }
+    ],
+    "bio": "El George, el chatio que hace las páginas :p, me gusta la tecnología, aprender de los demás, etc."
+  },
+  "portfolio": [
+    {
+      "name": "CBC",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "https://cbc.co/"
+    },
+    {
+      "name": "InnerHub",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "https://inner-hub.com/"
+    },
+    {
+      "name": "Motoshop VRC",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "https://motoshopvrc.com/"
+    },
+    {
+      "name": "Electronic bill",
+      "type": "Wordpress plugin",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "php"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Moai S.A.",
+      "type": "Wordpress",
+      "with": "Independient",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "https://moaisa.com/"
+    },
+    {
+      "name": "Mega Subastas",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "https://megasubastas.net/"
+    },
+    {
+      "name": "Centros Hospitalarios La Paz",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "http://hospitaleslapaz.com/"
+    },
+    {
+      "name": "Sistemas API",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "http://sistemasapi.com/"
+    },
+    {
+      "name": "Shipping control system (full support)",
+      "type": "REST API, Webapp",
+      "with": "Royale Studios",
+      "technologies": [
+        "Nodejs",
+        "Restify",
+        "Reactjs",
+        "Mysql",
+        "Sequelize",
+        "Ant Design",
+        "Bootstrap grid"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Medical appointment monitoring system",
+      "type": "REST API, Webapp",
+      "with": "Royale Studios",
+      "technologies": [
+        "Nodejs",
+        "Rethinkdb",
+        "Hapijs",
+        "Lodashjs",
+        "Joijs"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Package tracking system",
+      "type": "REST API, Webapp",
+      "with": "Royale Studios",
+      "technologies": [
+        "Nodejs",
+        "Rethinkdb",
+        "Hapijs",
+        "Lodashjs",
+        "Joijs",
+        "Ant Design",
+        "Casljs"
+      ],
+      "url": ""
+    },
+    {
+      "name": "AdaClinik",
+      "type": "Wordpress",
+      "with": "-",
+      "technologies": [
+        "Wordpress",
+        "css",
+        "php",
+        "jquery",
+        "javascript",
+        "bootstrap",
+        "Advanced Custom Fields Pro"
+      ],
+      "url": "https://www.adaclinik.com/"
+    },
+    {
+      "name": "Recruitment platform",
+      "type": "Wordpress",
+      "with": "Royale Studios",
+      "technologies": [
+        "Nodejs",
+        "Hapijs",
+        "Rethinkdb",
+        "React",
+        "Nextjs",
+        "Ant design",
+        "bootstrap grid",
+        "Lodashjs",
+        "Casljs"
+      ],
+      "url": ""
+    }
+  ]
+}

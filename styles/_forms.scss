@@ -1,0 +1,10 @@
+input {
+  color: fade-out(#fff, .6);
+
+  &[type="text"],
+  &[type="text"]:focus {
+    height: 90px;
+    font-size: 22px;
+    border: 0;
+  }
+}
